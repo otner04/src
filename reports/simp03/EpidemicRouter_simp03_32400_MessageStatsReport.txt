@@ -1,0 +1,20 @@
+Message stats for scenario EpidemicRouter_simp03
+sim_time: 32400.1000
+created: 1096
+started: 5071
+relayed: 2478
+aborted: 2593
+dropped: 2683
+removed: 0
+delivered: 335
+delivery_prob: 0.3057
+response_prob: 0.0000
+overhead_ratio: 6.3970
+latency_avg: 5694.2746
+latency_med: 4612.6000
+hopcount_avg: 1.4657
+hopcount_med: 1
+buffertime_avg: 6271.3837
+buffertime_med: 2881.5000
+rtt_avg: NaN
+rtt_med: NaN
